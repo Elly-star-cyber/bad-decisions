@@ -1,0 +1,13 @@
+1)
+
+Facilita entender as mudanças
+Ajuda a encontrar erros rapidamente
+Melhora o trabalho em equipe
+
+2)
+
+Revert: desfaz o commit com outro commit (usar quando já foi enviado)
+Novo commit corrigindo: editar e salvar novamente (usar para ajustes simples)
+
+3)
+Permite ver quando o erro surgiu, quem fez a alteração e o que foi modificado, ajudando a identificar a causa do bug.
